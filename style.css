@@ -1,0 +1,34 @@
+body, html {
+    height: 100%;
+  }
+
+.jumbotron{
+    position: relative;
+    z-index:-101;
+  }
+
+#video-background { 
+    position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      overflow: hidden;
+      z-index: -100;
+      width:100%;
+  }
+
+  .bg {
+    background-image: url("assets/pexels-photo-3422053.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+/*
+.jumbotron {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(47, 79, 79, 0.733);
+}*/
