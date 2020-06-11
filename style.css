@@ -26,9 +26,7 @@ body, html {
     background-size: cover;
   }
 
-/*
-.jumbotron {
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgba(47, 79, 79, 0.733);
-}*/
+  h1 {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: rgb(238, 180, 22);
+  }
