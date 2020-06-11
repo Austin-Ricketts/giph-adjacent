@@ -1,10 +1,10 @@
 # Giph Your Times
 
-[https://img.shields.io/badge/Giph-Your%20Times-orange](https://img.shields.io/badge/Giph-Your%20Times-orange)
+![https://img.shields.io/badge/Giph-Your%20Times-orange](https://img.shields.io/badge/Giph-Your%20Times-orange)
 
 ### Description
 
-Given that a user wishes to keep track of their employees, this app allows the user to generate departments, employees and roles. The user may view existing data for department, roles, and employees. The user may also update information for current employees, using the ID for an employee.
+This app makes an api call to The New York Times api, collecting the six most current articles on US politics. These articles appear in a card display on the main UI page. The user may look at each presented article and determine which one they would like to choose. The user will then use the nav bar to go to the Giphy site, retrieving a giph URL to input in the selected NYT article card. The user will enter that article and their name, both of which will be saved together in a database. If the user returns to the page, they may click on the nav bar to view the articles they have giphed.
 
 ### Table of Contents
 
